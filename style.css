@@ -1,0 +1,18 @@
+html body{
+	height: 100%;
+	width: 100%;
+	background: black;
+	color: white;
+}
+
+#button{
+	text-align: center;
+}
+
+#aResults{
+	text-align: center;
+}
+
+#wResults{
+	text-align: center;
+}
